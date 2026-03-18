@@ -1,43 +1,29 @@
-# Maze Solver (Java)
+# Maze Solver in Java
 
-A Java program that solves mazes using stack-based (DFS) and queue-based (BFS) search algorithms.
+## Overview
+This project is a Java implementation of a maze-solving program designed to find valid paths through a maze structure.
 
-The program reads a maze from a text file and determines a path from the start to the goal while avoiding walls. It also provides a graphical visualization of the maze solving process.
+## Purpose
+The project demonstrates algorithm design, problem-solving, and logical traversal techniques using Java.
 
 ## Features
+- Represent maze structures in code
+- Search for valid paths
+- Apply algorithmic logic to navigate through the maze
+- Demonstrate problem-solving with structured input
 
-- Maze solving using **Depth-First Search (DFS)** with a stack
-- Maze solving using **Breadth-First Search (BFS)** with a queue
-- Graph traversal algorithm
-- Visualization using a GUI
-- File-based maze input
-
-## Technologies
-
+## Tech Stack
 - Java
-- Data Structures (Stack, Queue)
-- Graph Search Algorithms
-- Object-Oriented Programming
+- Algorithms
+- Data Structures
 
-## Project Structure
+## What I Learned
+- Pathfinding logic
+- Recursive or iterative traversal techniques
+- Problem decomposition
+- Structured algorithm implementation
 
-
-## How to Run
-
-Compile the program:
-
-
-Run the program using a stack (DFS):
-
-
-Run the program using a queue (BFS):
-
-
-## Example Maze Symbols
-
-
-## Author
-
-Weiran Zeng  
-Franklin & Marshall College  
-Computer Science / Data Science
+## Future Improvements
+- Add visualization of the maze and solution path
+- Support multiple solving strategies
+- Improve performance for larger mazes
